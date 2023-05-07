@@ -1,0 +1,11 @@
+langchain
+unstructured
+pandas
+chromadb
+tiktoken
+openai
+datasets
+pinecone-client
+pinecone-client[grpc]
+apache_beam
+mwparserfromhell pprint
