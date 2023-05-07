@@ -1,4 +1,4 @@
-# gpt-vector-agent
+# 🧩 GPT Vector Agent
 
 **WIP**
 
@@ -9,12 +9,12 @@ This is an experimental playground for interfacing with different LLMs-chains (v
 1. To ideate, and experiment potential use cases for generative AI
 2. Provide public documention current understanding and lessons learned
 
-## Prompt Design (Great resources)
+## :memo: Prompt Design (Great resources)
 
 1. [Prompt Engineering by learnprompting.org](https://learnprompting.org/docs/intro) - an open source introductory course on prompt engineering
 2. [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Prompt engineering basics straight from OpenAI
 
-## LangChain
+## :parrot: :link: LangChain
 
 1. [Welcome to LangChain](https://python.langchain.com/en/latest/) - LangChain is a framework for developing applications powered by language models. 
   
@@ -29,8 +29,19 @@ This is an experimental playground for interfacing with different LLMs-chains (v
   - 🗃️ Memory  (1 items)
   - 🗃️ Chains  (4 items)
   - 🗃️ Agents  (4 items)
+  
+## 🔢 Vectorstore Databases
 
-## Experimental Projects
+### Guides
+
+- [Pineconeio Quickstart](https://pinecone.io) (Coming Soon)
+
+
+- [Redis Quickstart](#redis-quickstart) (Coming Soon)
+
+
+
+## 🧪 Experimental Projects
 
 | Difficulty      | Description |
 | --------------- | ----------- |
@@ -38,7 +49,7 @@ This is an experimental playground for interfacing with different LLMs-chains (v
 | 🧑🏾‍💻 Intermediate | Mid-level projects to practice using OpenAI + LangChain + Custom Knowledge base |
 | 🧑🏾‍💻 Advanced     | Advanced-level projects and custom implementations of OpenAI + LangChain + Embeddings + Vectorstore Databases |
 
-## 🦾 Contributing
+## 🌟 Contributing
 
 As an open-source project in a rapidly developing field, I welcome any contributions, whether it be in the form of updating code, better documentation, or projec to feature.
 
