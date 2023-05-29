@@ -40,7 +40,6 @@ This is an experimental playground for interfacing with different LLMs-chains (v
 - [Redis Quickstart](#redis-quickstart) (Coming Soon)
 
 
-
 ## 🧪 Experimental Projects
 
 | Difficulty      | Description |
@@ -48,6 +47,14 @@ This is an experimental playground for interfacing with different LLMs-chains (v
 | 🍼 Beginner     | Entry level projects to practice using OpenAI + LangChain |
 | 🧑🏾‍💻 Intermediate | Mid-level projects to practice using OpenAI + LangChain + Custom Knowledge base |
 | 🧑🏾‍💻 Advanced     | Advanced-level projects and custom implementations of OpenAI + LangChain + Embeddings + Vectorstore Databases |
+
+### [HuxleyPDF](https://githib.com/fredsiika/huxley-pdf) - PDF Chat bot
+  - Upload PDF docs, ask questions, receive conversational responses about your data
+  - Difficulty: Beginner
+  - Repo: [Repo](http//:githib.com/fredsiika/huxley-pdf)
+  - Stack: Built in Python, Streamlit (front end), OpenAI (LLM) + Pinecone (vector database)
+  - Todo: Add connectiom to S3 bucket
+
 
 ## 🌟 Contributing
 
